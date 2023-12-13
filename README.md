@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 CodeCool Full-stack Developer graduate.
+Financial Analyst by day, coder by day and night.
+Interested in everything related to automation/ML/AI and anything else that betters or simplifies our world
 
 
 <div align="center">
